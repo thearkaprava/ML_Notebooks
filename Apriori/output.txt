@@ -1,3 +1,5 @@
+** Please read the file in raw mode. **
+
 
 Name of Text Collection: Enron
 
